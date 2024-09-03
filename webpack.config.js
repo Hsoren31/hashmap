@@ -6,6 +6,7 @@ module.exports = {
   mode: 'development',
   entry: {
     index: './src/index.js',
+    linked: './src/linked.js'
   },
   devtool: 'eval-source-map',
   devServer: {
